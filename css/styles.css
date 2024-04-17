@@ -37,6 +37,10 @@ main {
     flex-grow: 1;
 }
 
+a {
+    text-align: center;
+}
+
 section {
     border: 1px solid #ccc;
     padding: 20px;
